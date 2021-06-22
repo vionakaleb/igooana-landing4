@@ -1,0 +1,14 @@
+{
+  "title": "",
+  "picture": "../../content/igooana_logo.png",
+  "text": "IGOOANA adalah sebuah platform digital yang dapat dikembangkan menjadi sebuah ekosistem yang sustainable.",
+  "button": [
+    {
+      "title": "Visit IGOOANA"
+    },
+    {
+      "title": "Watch Video",
+      "color": "#fff"
+    }
+  ]
+}
