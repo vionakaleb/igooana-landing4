@@ -3,6 +3,10 @@ import { Link } from "react-router-dom";
 import { MenuOutlined } from "@ant-design/icons";
 
 export const HeaderSection = styled("header")`
+  background: #7ACDAD;  
+  position: fixed;
+  z-index: 99;
+  width: 100vw;
   padding: 1rem 0.5rem;
 
   .ant-row-space-between {
@@ -50,7 +54,7 @@ export const Burger = styled("div")`
   display: none;
 
   svg {
-    fill: #2e186a;
+    fill: #385867;
   }
 `;
 
@@ -68,7 +72,7 @@ export const Menu = styled("h5")`
 
 export const CustomNavLinkSmall = styled(NavLink)`
   font-size: 1.2rem;
-  color: #18216d;
+  color: #385867;
   transition: color 0.2s ease-in;
   margin: 0.5rem 2rem;
 
